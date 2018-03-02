@@ -1,0 +1,4 @@
+#!/bin/bash
+echo -n "Roman Kuznetsov,"
+echo -n "IS117"
+echo " 4+"
