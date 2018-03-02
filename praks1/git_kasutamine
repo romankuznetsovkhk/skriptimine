@@ -8,3 +8,6 @@ cd skriptimine
 git init
 git remote add skriptimine https://github.com/kasutajanimi/reponimi.git
 git remote -v
+git add failinimi
+git commit -m "1234"
+git push -uf skriptimine master
