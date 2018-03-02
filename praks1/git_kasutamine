@@ -1,0 +1,10 @@
+apt-get install git
+
+git config --global user.name "ees perenimi"
+                        .email omaemail
+                    core.editor nano
+mkdir skriptimine
+cd skriptimine
+git init
+git remote add skriptimine https://github.com/kasutajanimi/reponimi.git
+git remote -v
